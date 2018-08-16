@@ -9,3 +9,6 @@ npm i tmi.js --save
 Fill in the information in the code where needed in 'settings.js' and 'bot.js'.
 
 ## Run 'bot.js' to start the bot.
+```
+node bot.js
+```
